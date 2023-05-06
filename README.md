@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Prompt Engineering for Developers**
 
-- 💬 Ask me about **Deep Learning, Reinforcement Learning, Large Language Models, AI**
+- 💬 Ask me about **Deep Learning, Reinforcement Learning, Large Language Models, Artificial Intelligence**
 
 - 📫 How to reach me **pavanpreet.gandhi@gmail.com**
 
