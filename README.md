@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Pavan</h1>
 ### An aspiring **data scientist** and **AI enthusiast** based in Bangkok.
 
-- 🔭 I’m currently working on **portfolio optimization using reinforcement learning**
+- 🔭 I’m currently working on **Portfolio Optimization using Reinforcement Learning**
 
-- 🌱 I’m currently learning **prompt engineering for developers**
+- 🌱 I’m currently learning **Prompt Engineering for Developers**
 
-- 💬 Ask me about **deep learning, reinforcement learning, language models**
+- 💬 Ask me about **Deep Learning, Reinforcement Learning, Large Language Models, AI**
 
 - 📫 How to reach me **pavanpreet.gandhi@gmail.com**
 
