@@ -11,4 +11,4 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/pavanpreet-gandhi](www.linkedin.com/in/pavanpreet-gandhi)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanpreet-gandhi&show_icons=true&locale=en&layout=compact" alt="pavanpreet-gandhi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanpreet-gandhi&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="pavanpreet-gandhi" /></p>
