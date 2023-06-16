@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Pavan</h1>
-### An aspiring **data scientist** and **AI enthusiast** based in Bangkok.
+### A **data scientist** and **AI enthusiast** based in Bangkok.
 
 - 🔭 I’m currently working on **Portfolio Optimization using Reinforcement Learning**
 
