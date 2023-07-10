@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **portfolio optimization using reinforcement learning**
 
-- 🌱 I’m currently learning **how to build a character level language model from scratch**
+- 🌱 I’m currently learning about **stable diffusion**
 
-- 💬 Ask me about **deep learning, reinforcement learning, language models, artificial intelligence**
+- 💬 Ask me about **deep learning, reinforcement learning, large language models, artificial intelligence**
 
 - 📫 How to reach me: **pavanpreet.gandhi@gmail.com**
 
