@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Pavan</h1>
-### A **data scientist** and **AI enthusiast**.
+### A **data scientist** and **AI enthusiast** based in the UK!
 
 - 🔭 I’m currently working at **American Express** on problems related to **time-series anomaly detection and clustering**
 
