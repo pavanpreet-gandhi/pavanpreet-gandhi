@@ -1,5 +1,5 @@
-# Hi there 👋, I'm Pavan</h1>
+# 👋 Hi there, I'm Pavan!
 
-I’m incredibly passionate about AI and ML, and I’m eager to learn and make meaningful contributions to the field. I’m currently pursuing a masters in Computational Statistics and Machine Learning at UCL with an interest towards Open Endedness and RL. Prior to this, I worked as a Data Scientist at American Express primarily on timeseries problems. My background is in Applied Mathematics and Computer Science.
+I like LLMs and RL.
 
-Know about my experiences: [www.linkedin.com/in/pavanpreet-gandhi](www.linkedin.com/in/pavanpreet-gandhi)
+Click [here](https://pavanpreet-gandhi.github.io/) to visit my personal website to find out more about me.
